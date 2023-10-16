@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DevendraKeshariya
-- 👀 I’m interested in ...
+- 👀 I’m interested in 
 - 🌱 I’m currently a Python Developer intern
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me devendrekeshariya143@gmail.com
